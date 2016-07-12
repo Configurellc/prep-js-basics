@@ -1,4 +1,4 @@
-/* create variables */
+con/* create variables */
 
 /**
 * #1
@@ -10,8 +10,12 @@
 * It should be a String.
 **/
 
-
-
+var firstName = "Joshua";
+var lastName = "lee";
+var birthPlace = "Florida";
+console.log(firstName);
+console.log(lastName);
+console.log(birthPlace);
 /**
 * #2
 * Variables with a Number as their value
@@ -144,4 +148,6 @@
 * This function should return a String along the lines of, "Tomatoes and Cheese make a Pizza!"
 * if invoked in this way -> cook("Tomatoes", "Cheese", "Pizza");
 **/
-
+function cook (para1, para2, para3) {
+}F/*JLee4418
+	return " i l ike " + para1 + "and" +                                                                              /.,mlnkjbhkml,;.'lmknjbhvg '
